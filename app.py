@@ -16,6 +16,11 @@ JOBS = [{
   'title': 'Business Analyst',
   'location': 'Calgary, Alberta',
   'salary': '$75,000'
+}, {
+  'id': 4,
+  'title': 'Full-Stack Developer',
+  'location': 'Calgary, Alberta',
+  'salary': '$105,000'
 }]
 
 
